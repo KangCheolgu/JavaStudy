@@ -2,17 +2,6 @@ package study00.h20230413;
 
 import java.util.Scanner;
 
-/*----------------------
-
-작성자 		: 강철구
-버전			: 1.0 version
-함수 내용		: 조건문을 사용하여 큰값 작은값 구분하기
-최초 작성 날짜	: 23.04.13
-마지막 수정 날짜	: 23.04.13
-수정자			: 강철구
-
-----------------------*/
-
 public class Hw16 {
 
 	public static void main(String[] args) {

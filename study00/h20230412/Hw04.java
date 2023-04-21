@@ -1,17 +1,6 @@
 package study00.h20230412;
 import java.util.Scanner;
 
-/*----------------------
-
-작성자 		: 강철구
-버전			: 1.0 version
-함수 내용		: 논리연산자를 사용하여 약수 구하기
-최초 작성 날짜	: 23.04.12
-마지막 수정 날짜	: 23.04.13
-수정자			: 강철구
-
-----------------------*/
-
 public class Hw04 {
 
 	public static void main(String[] args) {

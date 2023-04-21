@@ -2,17 +2,6 @@ package study00.h20230412;
 
 import java.util.Scanner;
 
-/*----------------------
-
-작성자 		: 강철구
-버전			: 1.0 version
-함수 내용		: 변수 크기 비교하기
-최초 작성 날짜	: 23.04.12
-마지막 수정 날짜	: 23.04.13
-수정자			: 강철구
-
-----------------------*/
-
 public class Hw06 {
 
 	public static void main(String[] args) {

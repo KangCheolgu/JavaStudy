@@ -2,17 +2,6 @@ package study00.h20230413;
 
 import java.util.Scanner;
 
-/*----------------------
-
-작성자 		: 강철구
-버전			: 1.0 version
-함수 내용		: 월 입력하면 계절 출력하기
-최초 작성 날짜	: 23.04.13
-마지막 수정 날짜	: 23.04.13
-수정자			: 강철구
-
-----------------------*/
-
 public class Hw20 {
 
 	public static void main(String[] args) {
