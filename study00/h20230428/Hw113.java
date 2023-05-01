@@ -2,7 +2,7 @@ package study00.h20230428;
 
 import java.util.Scanner;
 
-
+// 배열의 모든 요소의 합 구하기
 public class Hw113 {
 	
 	static int sumUp(int[] a) {

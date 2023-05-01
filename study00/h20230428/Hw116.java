@@ -1,7 +1,7 @@
 package study00.h20230428;
 
 import java.util.Scanner;
-
+//배열 a 로부터 a[idx] 삭제하기
 public class Hw116 {
 	
 	static void aryRmv(int[] a, int idx) {

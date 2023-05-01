@@ -2,6 +2,8 @@ package study00.h20230428;
 
 import java.util.Scanner;
 
+//배열 안에서 같은 값 찾기
+
 public class Hw115 {
 	static int linearSearch(int[] a, int key) {
 		for ( int i = 0; i < a.length; i++)

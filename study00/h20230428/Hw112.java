@@ -2,6 +2,8 @@ package study00.h20230428;
 
 import java.util.Scanner;
 
+// 비트변환
+
 public class Hw112 {
 	
 	static void printBits(int x) {

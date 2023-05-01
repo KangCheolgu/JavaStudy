@@ -1,7 +1,7 @@
 package study00.h20230428;
 
 import java.util.Scanner;
-
+//배열의 요소 중에서 최솟값 찾기
 public class Hw114 {
 	
 	static int minOf(int[] a) {
